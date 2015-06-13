@@ -3,20 +3,23 @@
   <Packages>
     <Package name="+global">
       <Stats>
-        <TotalClasses>1</TotalClasses>
-        <ConcreteClasses>1</ConcreteClasses>
+        <TotalClasses>2</TotalClasses>
+        <ConcreteClasses>2</ConcreteClasses>
         <AbstractClasses>0</AbstractClasses>
         <Ca>0</Ca>
-        <Ce>0</Ce>
+        <Ce>1</Ce>
         <A>0</A>
-        <I>0</I>
-        <D>1</D>
+        <I>1</I>
+        <D>0</D>
       </Stats>
       <ConcreteClasses>
         <Class sourceFile="/home/la/workspace/ci-php-sample/src/Foo.php">Foo</Class>
+        <Class sourceFile="/home/la/workspace/ci-php-sample/src/Tests/FooTest.php">FooTest</Class>
       </ConcreteClasses>
       <AbstractClasses/>
-      <DependsUpon/>
+      <DependsUpon>
+        <Package></Package>
+      </DependsUpon>
       <UsedBy/>
     </Package>
   </Packages>
