@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1434213755">
-  <project timestamp="1434213755">
+<coverage generated="1434220845">
+  <project timestamp="1434220845">
     <file name="/home/la/workspace/ci-php-sample/src/Foo.php">
       <class name="Foo" namespace="global">
         <metrics methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
