@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="2.3.2">
+<file name="/home/la/workspace/ci-php-sample/src/Tests/FooTest.php">
+ <error line="3" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="7" column="30" severity="error" message="No space found after comma in function call" source="Generic.Functions.FunctionCallArgumentSpacing.NoSpaceAfterComma"/>
+</file>
+<file name="/home/la/workspace/ci-php-sample/src/Foo.php">
+ <error line="5" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="5" column="11" severity="error" message="Opening brace of a class must be on the line after the definition" source="PSR2.Classes.ClassDeclaration.OpenBraceNewLine"/>
+</file>
+</checkstyle>
+

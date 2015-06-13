@@ -2,6 +2,5 @@
 /**
  * Sample class
  */
-class Foo
-{
+class Foo {
 }
