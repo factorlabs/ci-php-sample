@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Project Test Suite" tests="1" assertions="1" failures="0" errors="0" time="0.066853">
-    <testsuite name="FooTest" file="/home/la/workspace/ci-php-sample/src/Tests/FooTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.066853">
-      <testcase name="testSample" class="FooTest" file="/home/la/workspace/ci-php-sample/src/Tests/FooTest.php" line="5" assertions="1" time="0.066853"/>
+  <testsuite name="Project Test Suite" tests="1" assertions="1" failures="0" errors="0" time="0.059180">
+    <testsuite name="FooTest" file="/home/la/workspace/ci-php-sample/src/Tests/FooTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.059180">
+      <testcase name="testSample" class="FooTest" file="/home/la/workspace/ci-php-sample/src/Tests/FooTest.php" line="5" assertions="1" time="0.059180"/>
     </testsuite>
   </testsuite>
 </testsuites>

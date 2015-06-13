@@ -7,6 +7,21 @@
 <file name="/home/la/workspace/ci-php-sample/src/Foo.php">
  <error line="5" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
  <error line="5" column="11" severity="error" message="Opening brace of a class must be on the line after the definition" source="PSR2.Classes.ClassDeclaration.OpenBraceNewLine"/>
+ <error line="6" column="3" severity="error" message="Line indented incorrectly; expected at least 4 spaces, found 2" source="Generic.WhiteSpace.ScopeIndent.Incorrect"/>
+ <error line="6" column="25" severity="error" message="Opening brace should be on a new line" source="Squiz.Functions.MultiLineFunctionDeclaration.BraceOnSameLine"/>
+ <error line="7" column="5" severity="error" message="Line indented incorrectly; expected 8 spaces, found 4" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
+ <error line="8" column="7" severity="error" message="Line indented incorrectly; expected 12 spaces, found 6" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
+ <error line="8" column="7" severity="error" message="Expected 1 space after IF keyword; 0 found" source="Squiz.ControlStructures.ControlSignature.SpaceAfterKeyword"/>
+ <error line="9" column="1" severity="error" message="Spaces must be used to indent lines; tabs are not allowed" source="Generic.WhiteSpace.DisallowTabIndent.TabsUsed"/>
+ <error line="9" column="5" severity="error" message="Line indented incorrectly; expected 16 spaces, found 4" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
+ <error line="9" column="5" severity="error" message="Expected 1 space after WHILE keyword; 0 found" source="Squiz.ControlStructures.ControlSignature.SpaceAfterKeyword"/>
+ <error line="10" column="1" severity="error" message="Spaces must be used to indent lines; tabs are not allowed" source="Generic.WhiteSpace.DisallowTabIndent.TabsUsed"/>
+ <error line="10" column="7" severity="error" message="Line indented incorrectly; expected 20 spaces, found 6" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
+ <error line="11" column="1" severity="error" message="Spaces must be used to indent lines; tabs are not allowed" source="Generic.WhiteSpace.DisallowTabIndent.TabsUsed"/>
+ <error line="11" column="7" severity="error" message="Line indented incorrectly; expected 8 spaces, found 6" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
+ <error line="12" column="1" severity="error" message="Spaces must be used to indent lines; tabs are not allowed" source="Generic.WhiteSpace.DisallowTabIndent.TabsUsed"/>
+ <error line="13" column="7" severity="error" message="Line indented incorrectly; expected 8 spaces, found 6" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
+ <error line="15" column="3" severity="error" message="Line indented incorrectly; expected 4 spaces, found 2" source="Generic.WhiteSpace.ScopeIndent.IncorrectExact"/>
 </file>
 </checkstyle>
 
